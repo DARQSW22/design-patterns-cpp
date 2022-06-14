@@ -32,3 +32,6 @@ composition to combine classes with different interfaces.
       Adapter : Request()
       Adaptee : SpecificRequest()
 ```
+## TO LEARN MORE
+
+https://reactiveprogramming.io/blog/es/patrones-de-diseno/adapter
