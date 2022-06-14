@@ -29,3 +29,6 @@ The pattern has structural purpose and applies to objects.
       Proxy : operation()
       RealSubject : operation()
 ```
+## TO LEARN MORE
+
+https://reactiveprogramming.io/blog/es/patrones-de-diseno/proxy
