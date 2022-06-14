@@ -31,3 +31,6 @@ The pattern has structural purpose and applies to objects.
       Facade-->SubsystemB
       Facade-->SubsystemC
 ```
+## TO LEARN MORE
+
+https://reactiveprogramming.io/blog/es/patrones-de-diseno/facade
