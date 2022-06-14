@@ -39,3 +39,6 @@ has behavioral purpose and applies to the objects.
       ConcreteObserver : Update()
       ConcreteObserver : observerState
 ```
+## TO LEARN MORE
+
+https://reactiveprogramming.io/blog/es/patrones-de-diseno/observer
