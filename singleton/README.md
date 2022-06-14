@@ -26,3 +26,6 @@ and [Flyweight]).
       Singleton : Singleton uniqueInstance$
       Singleton :singletonData
 ```
+## TO LEARN MORE
+
+https://reactiveprogramming.io/blog/es/patrones-de-diseno/strategy
