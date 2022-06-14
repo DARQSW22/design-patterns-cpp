@@ -33,3 +33,8 @@ The pattern has behavioral purpose and applies to the objects.
       ConcreteStrategyB : AlgorithmInterface()*
       ConcreteStrategyC : AlgorithmInterface()*
 ```
+
+## TO LEARN MORE
+
+https://reactiveprogramming.io/blog/es/patrones-de-diseno/strategy
+
